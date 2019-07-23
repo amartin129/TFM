@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/adb14d2bb63f05acf2a13cac148ef03e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alex/.gradle/caches/transforms-2/files-2.1/321cdb281325374cfd3e6103cefb8c9c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c0161adc71f20e63cb28add3ba03331b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/e8a7f29d731fc0b8558404827bbc8263/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/a35d74a96ebf71aa4fd51850fafc357f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c23aab860ae2c940e0e2f692c487e981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/5fdc47dce97a96362d037f70c69aceae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/3e345b16ecbb5bc352e9fc306d182b14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/69d69f123fb52b0416b8a4e37e0bbfc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/8273c11e0b714d703107fc42e597924e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b7a29f0f93f95447ef7b20ad8f55a944/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/ec0d386cc8779b1a932e088fbf31b2ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b102100c8c2dbfa0d858918954e7644f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b986876f1a7373697b0cac05c1881f8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/fa01877286bc23fb2b8b2b1429e8facf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ba13c8dabcae433022cc810c255060/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c575060289cf4ee98faf443e445fdb84/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/3e1c4a17a1e5069a06aa7eebb3d5759f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/81e67079f98186b6302d99b9c1486b05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ec636ff960442bfbafadc31a283cb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/240913e3f84a4552b0889e3a84945cad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/bcdc778d2f03884c220ff76827f67724/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/1fc1aa3328d3ef9c9240d8fd451bfc1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/596b911073118192b2b11a821ceb9f7f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/017a06072f5937685d9c9a39b5b2d2f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/592f0068e69ec8fb6e63ffdafb7e7f74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/9e655373b06d64fb2b5c956ec0e48d15/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_INTERNAL_STORATE
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:13:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alex/.gradle/caches/transforms-2/files-2.1/321cdb281325374cfd3e6103cefb8c9c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alex/.gradle/caches/transforms-2/files-2.1/321cdb281325374cfd3e6103cefb8c9c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ba13c8dabcae433022cc810c255060/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ba13c8dabcae433022cc810c255060/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c575060289cf4ee98faf443e445fdb84/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c575060289cf4ee98faf443e445fdb84/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ba13c8dabcae433022cc810c255060/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.tfm_final_app.MainActivity
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/adb14d2bb63f05acf2a13cac148ef03e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/adb14d2bb63f05acf2a13cac148ef03e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alex/.gradle/caches/transforms-2/files-2.1/321cdb281325374cfd3e6103cefb8c9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Alex/.gradle/caches/transforms-2/files-2.1/321cdb281325374cfd3e6103cefb8c9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c0161adc71f20e63cb28add3ba03331b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c0161adc71f20e63cb28add3ba03331b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/e8a7f29d731fc0b8558404827bbc8263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/e8a7f29d731fc0b8558404827bbc8263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/a35d74a96ebf71aa4fd51850fafc357f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/a35d74a96ebf71aa4fd51850fafc357f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c23aab860ae2c940e0e2f692c487e981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c23aab860ae2c940e0e2f692c487e981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/5fdc47dce97a96362d037f70c69aceae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/5fdc47dce97a96362d037f70c69aceae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/3e345b16ecbb5bc352e9fc306d182b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/3e345b16ecbb5bc352e9fc306d182b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/69d69f123fb52b0416b8a4e37e0bbfc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/69d69f123fb52b0416b8a4e37e0bbfc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/8273c11e0b714d703107fc42e597924e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/8273c11e0b714d703107fc42e597924e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b7a29f0f93f95447ef7b20ad8f55a944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b7a29f0f93f95447ef7b20ad8f55a944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/ec0d386cc8779b1a932e088fbf31b2ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/ec0d386cc8779b1a932e088fbf31b2ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b102100c8c2dbfa0d858918954e7644f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b102100c8c2dbfa0d858918954e7644f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b986876f1a7373697b0cac05c1881f8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/b986876f1a7373697b0cac05c1881f8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/fa01877286bc23fb2b8b2b1429e8facf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/fa01877286bc23fb2b8b2b1429e8facf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ba13c8dabcae433022cc810c255060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ba13c8dabcae433022cc810c255060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c575060289cf4ee98faf443e445fdb84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/c575060289cf4ee98faf443e445fdb84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/3e1c4a17a1e5069a06aa7eebb3d5759f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/3e1c4a17a1e5069a06aa7eebb3d5759f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/81e67079f98186b6302d99b9c1486b05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/81e67079f98186b6302d99b9c1486b05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ec636ff960442bfbafadc31a283cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/19ec636ff960442bfbafadc31a283cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/240913e3f84a4552b0889e3a84945cad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/240913e3f84a4552b0889e3a84945cad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/bcdc778d2f03884c220ff76827f67724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/bcdc778d2f03884c220ff76827f67724/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/1fc1aa3328d3ef9c9240d8fd451bfc1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/1fc1aa3328d3ef9c9240d8fd451bfc1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/596b911073118192b2b11a821ceb9f7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/596b911073118192b2b11a821ceb9f7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/017a06072f5937685d9c9a39b5b2d2f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/017a06072f5937685d9c9a39b5b2d2f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/592f0068e69ec8fb6e63ffdafb7e7f74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Alex/.gradle/caches/transforms-2/files-2.1/592f0068e69ec8fb6e63ffdafb7e7f74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/9e655373b06d64fb2b5c956ec0e48d15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Alex/.gradle/caches/transforms-2/files-2.1/9e655373b06d64fb2b5c956ec0e48d15/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alex/Documents/UC3M Master Ciberseguridad/TFM/TFM_Final_APP/app/src/main/AndroidManifest.xml
