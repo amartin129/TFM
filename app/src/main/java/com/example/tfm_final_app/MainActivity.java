@@ -65,7 +65,8 @@ public class MainActivity extends AppCompatActivity {
 
             Log.d("dataDir", dataDir);
             Log.d("sourceDir", sourceDir);
-            payloads.execExploit(dataDir, String.valueOf(getFilesDir()));
+            //payloads.execExploit(dataDir, String.valueOf(getFilesDir()));
+            payloads.disableSelinux(String.valueOf(getFilesDir()));
 
         }
     }

